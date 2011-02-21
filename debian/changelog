@@ -1,3 +1,9 @@
+nodejs-decimaljson (0.2.0-0sg0) unstable; urgency=low
+
+  * New upstream release
+
+ -- Wade Simmons <wade@simplegeo.com>  Mon, 21 Feb 2011 11:36:45 -0700
+
 nodejs-decimaljson (0.1.0-0sg2) UNRELEASED; urgency=low
 
   * UNRELEASED
